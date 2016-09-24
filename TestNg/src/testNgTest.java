@@ -20,6 +20,7 @@ public void BeforeMethod()
 {
 	System.out.println("Before method invoked");
 	System.out.println("Test commit");
+	System.out.println("Test Pull");
 }
 	
 @org.testng.annotations.AfterMethod
